@@ -15,6 +15,7 @@ The wordcount program is a python script, which reads an input file and writes t
 
    usage
    contribution
+   guy
 
 I can edit the document from Github platform.
 I
